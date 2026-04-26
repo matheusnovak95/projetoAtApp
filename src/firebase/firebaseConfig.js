@@ -4,13 +4,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDGBybeRxkEYy7xQmSOzVhsyg_ibx3erRQ",
-  authDomain: "atividade2-89358.firebaseapp.com",
-  projectId: "atividade2-89358",
-  storageBucket: "atividade2-89358.firebasestorage.app",
-  messagingSenderId: "1010646869591",
-  appId: "1:1010646869591:web:416bbad8955fd1cf59e512",
-  measurementId: "G-8P0CKC5QHG"
+  apiKey: "AIzaSyAy756RBQa2M0gMqHkm-aiOp3n57Av6F7M",
+  authDomain: "projetoatapp.firebaseapp.com",
+  projectId: "projetoatapp",
+  storageBucket: "projetoatapp.firebasestorage.app",
+  messagingSenderId: "436649759017",
+  appId: "1:436649759017:web:78a8b083a1d050569e6738",
+  measurementId: "G-QSB13Q58DZ"
 };
 
 // Inicializa o Firebasee
