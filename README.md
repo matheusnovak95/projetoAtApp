@@ -1,2 +1,2 @@
 # projetoAtApp
-firesbase, vercel
+firesbase, react, vercel
